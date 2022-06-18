@@ -5,7 +5,7 @@
 <h2>Resumo da leitura</h2>
 
 <p>Chad Fowler, famoso desenvolvedor de software e autor de diversos livros, ensina a construir sua carreira na área de desenvolvimento, passo a passo, seguindo o mesmo caminho de que se você estivesse criando e vendendo um produto. Afinal de contas, suas habilidades são um produto.</p> 
-<img align="center" alt="Requisitos" height="500" width="600" src="https://github.com/Marilainny/Livros/blob/main/Imagem/o-programador-apaixonado-casa-do-codigo.jpg">
+<img align="center" alt="Requisitos" height="500" width="900" src="https://github.com/Marilainny/Livros/blob/main/Imagem/o-programador-apaixonado-casa-do-codigo.jpg">
 
 <h2>Liderar ou Sangrar</h2>
 <p>Faça uma lista de tecnologias recentes, médias e antigas baseada no mercado
