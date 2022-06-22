@@ -1,6 +1,6 @@
 <h1>Desenvolvimento Ágil Limpo - De volta às Origens</h1>
 <h2>Autor: Robert C. Martin</h2>
-<img align="center" alt="Requisitos" height="100" width="200" src="https://github.com/Marilainny/Livros/blob/main/Imagem/Desenvolvimento-agil-limpo.jpg">
+<img alt="Requisitos" height="400" width="300" align="center" src="https://github.com/Marilainny/Livros/blob/main/Imagem/Desenvolvimento-agil-limpo.png">
 
 <ol>
     <li><strong>Pessoas e interações</strong>, em detrimento de processos e ferramentas.</li>
