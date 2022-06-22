@@ -237,3 +237,8 @@ dependências, simplificando a coordenação entre equipes.</p>
 
 <p>Os desenvolvedores não devem solicitar autorização para escrever os testes. Não devem ter tarefas separadas para os testes unitários ou a refatoração e nem a fim de implementar uma funcionalidade em produção.</p>
 
+
+
+
+
+
